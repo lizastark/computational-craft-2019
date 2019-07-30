@@ -4,7 +4,7 @@ Syllabus for Computational Craft course in the MFA Design + Tech program at Pars
 INSERT CLASS OVERVIEW + SYLLABUS
 
 ## Schedule
-- Week 1 (8/28) - Course Introduction
+- Week 1 (8/28) - [Course Introduction](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week1.md)
 - Week 2 (9/4) - Crafting a Path: Circuit Basics
 - Week 3 (9/11) - Sensors and Switches
 - Week 4 (9/25) - eTextile Connectors + Tools *(Liza out, Nicole subs)*
