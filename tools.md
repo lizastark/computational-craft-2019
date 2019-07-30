@@ -40,6 +40,7 @@ Please purchase the tools, materials, and hardware under "Required" ASAP and br
 - Resistor Kit - should contain many 220 Ohm Resistors (red, red, brown) and 10 K Ohm Resistors (black, brown, orange)(Sparkfun has a [lovely resistor kit](https://www.sparkfun.com/products/10969) that I *highly* recommend
 - [3V CR2032 Lithium Batteries](https://www.amazon.com/s?k=cr2032+battery&sprefix=CR2032+%2Cgarden%2C151&ref=nb_sb_ss_c_0_7)
 - [Coin cell battery holders](https://www.sparkfun.com/products/8822) (at least 3)
+- [Lithium Ion Battery 3.7 Volts 350 mAh](https://www.adafruit.com/product/2750) (I'd also recommend the [Adafruit Micro Lipo charger](https://www.adafruit.com/product/1304)) *If you decide to buy from another distributor, make sure the LiPo has the regulator circuitry on top - the stuff in the yellow tape*
 - Breadboard
 - Jumper cables
 - Arduino Uno + USB cord (You should be prepared to purchase another microcontroller such as the Adafruit Flora, LilyPad, Gemma MO, Teensy for midterms and/or final projects)
