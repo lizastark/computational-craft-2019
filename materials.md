@@ -4,12 +4,12 @@ This course is heavily based in materials. I will provide samples for you to exp
 
 ## [Conductive + Smart Materials Database](https://docs.google.com/spreadsheets/d/1PHcn2POpbQZtsXZuTycSfywFOW1Vq07Fm5aU_iPH0vY/edit#gid=0)
 Please look through the spreadsheet above to familiarize yourself with the materials available to you. It includes:
-- conductive and resistive textiles
-- conductive and resistive threads
-- conductive and resistive yarns
-- conductive tapes + adhesives
-- conductive and color-changing inks
-- shape memory alloys
+- conductive and resistive textiles (finished)
+- conductive and resistive threads (needs updating)
+- conductive and resistive yarns (needs updating)
+- conductive tapes + adhesives (needs updating)
+- conductive and color-changing inks (needs updating)
+- shape memory alloys (needs updating)
 
 Some of these are easily obtainable and fairly inexpensive. Others are not. Half the fun of this course is exploring and finding new materials. Test EVERYTHING!!
 
