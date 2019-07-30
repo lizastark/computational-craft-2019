@@ -21,6 +21,29 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 15 (12/11) - In-class work session
 - Week 16 (12/18) - Final Presentations
 
+## Materials + Tools
+This is in large part a materials-focused course. Some materials will be provided for example activities, but students are expected to purchase their own materials for assignments and projects based on their needs. 
+- All required supplies for the class can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/tools.md). 
+- Our class supplies can be found in locker #27 (see your email for the combination)
+- A database of materials (only some of which we have time to explore) can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/materials.md)
+- Again, you are expected to bring all materials and tools to every class.
+
+As of this fall, D12 will also have some machines available on the floor. Please treat these tools with the same respect you would treat your own. 
+
+## Resources
+### Making Center
+- [Equipment Orientations](http://resources.parsons.edu/training-workshops/) - Sign up early
+- [Labs, Shops, Studios](http://resources.parsons.edu/labs-shops-studios/)
+- [List of Tools + Equipment](http://resources.parsons.edu/tools-equipment/)
+- [Making Center Store](https://epay.newschool.edu/C21120_ustores/web/classic/store_cat.jsp?STOREID=40&CATID=209) - You can purchase materials online and pick them up there.
+
+### Tutorials + Websites + People + Spaces
+Please see [this page](http://lizastark.com/compcraftfall2018/resources/) until I port them over here.
+
+### Readings + Publications
+Please see [this page](http://lizastark.com/compcraftfall2018/readings/) until I port them over here. 
+
+
 ## Description
 Craft is a practice underlying all cultures, unifying hand with mind, materials with tools, and high technology with low technology. Historically, craft is a means of communicating the knowledge, stories, and values of the individual and local community across generations. Likewise, technology has become our main form of mediated storytelling and contributes formatively to how we perceive ourselves.
 
@@ -34,39 +57,18 @@ If you would like to escape the screen for the hand, this is a great opportunity
 
 ## Learning Outcomes
 By the successful completion of this course, students will be able to:
-Develop a deeper understanding of these new materials and their affordances; Determine appropriate materials based on the project; Apply this knowledge to construct aesthetic and functional computationally enhanced prototypes. [Materials Knowledge + Techniques]
-Gain a basic understanding of electricity and microcontrollers; Build a working knowledge of embedded computing techniques and develop the ability to translate these techniques to different scales. [Electronics + Computing]
-Demonstrate the ability to integrate the design process into work; Able to find material / electronic solutions and integrate them into a larger project; Documents extensively and shares work online. [Design Thinking + Process]
-Use different lenses and frameworks to approach the design process and user research. We will pull from elements from narrative construction and storytelling, situational design, craft research, game design, and more. [Research Methodology]
-
-## Resources
-
-### Materials + Tools
-This is in large part a materials-focused course. Some materials will be provided for example activities, but students are expected to purchase their own materials for assignments and projects based on their needs. 
-- All required supplies for the class can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/tools.md). 
-- Our class supplies can be found in locker #27 (see your email for the combination)
-- A database of materials (only some of which we have time to explore) can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/materials.md)
-- Again, you are expected to bring all materials and tools to every class.
-
-As of this fall, D12 will also have some machines available on the floor. Please treat these tools with the same respect you would treat your own. 
-
-### Making Center
-- [Equipment Orientations](http://resources.parsons.edu/training-workshops/) - Sign up early
-- [Labs, Shops, Studios](http://resources.parsons.edu/labs-shops-studios/)
-- [List of Tools + Equipment](http://resources.parsons.edu/tools-equipment/)
-- [Making Center Store](https://epay.newschool.edu/C21120_ustores/web/classic/store_cat.jsp?STOREID=40&CATID=209) - You can purchase materials online and pick them up there.
-
-### Readings + Publications
-Please see http://lizastark.com/compcraftfall2018/readings/ 
-
+- **Materials Knowledge + Techniques** - Develop a deeper understanding of these new materials and their affordances; Determine appropriate materials based on the project; Apply this knowledge to construct aesthetic and functional computationally enhanced prototypes. 
+- **Electronics + Computing** - Gain a basic understanding of electricity and microcontrollers; Build a working knowledge of embedded computing techniques and develop the ability to translate these techniques to different scales. 
+- **Design Thinking + Process** - Demonstrate the ability to integrate the design process into work; Able to find material / electronic solutions and integrate them into a larger project; Documents extensively and shares work online. 
+- **Research Methodology** - Use different lenses and frameworks to approach the design process and user research. We will pull from elements from narrative construction and storytelling, situational design, craft research, game design, and more. 
 
 ## Assessable Tasks
 The course is structured as a series of workshops, each with an in class activity and outside assignment. These activities and assignments are designed for you to enhance your technical understanding through peer to peer learning, explore materials and their appropriate (or inappropriate) usage, and apply both through rapid prototyping. The final project will assess your overall knowledge and growth from an integrated, holistic approach.
 
 You will have 2 major projects. We will discuss all of these at length, but here is the short overview:
 
-1. Midterm Project: You will design a light giving object with at least two states that responds to a narrative or metaphor. No wires allowed.
-2. Final Project: For the final project you will respond to a theme or question. It is due the last day of class. Final documentation will be due a few days after.
+**1. Midterm Project:** You will design a light giving object with at least two states that responds to a narrative or metaphor. No wires allowed.
+**2. Final Project:** For the final project you will respond to a theme or question. It is due the last day of class. Final documentation will be due a few days after.
 
 At certain points in the semester, we will reflect on the direction of the course as a whole class to discuss things that are not working or demand further exploration.
 
