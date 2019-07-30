@@ -15,7 +15,7 @@ Some of these are easily obtainable and fairly inexpensive. Others are not. Half
 
 ## Distributor List
 This is also on the spreadsheet, but copying here as well.
-- [LessEMF](http://www.lessemf.com/)
+- [LessEMF](http://www.lessemf.com/fabric.html)
 - [VTech Textiles](http://www.shopvtechtextiles.com)
 - [Adafruit](https://adafruit.com)
 - [Sparkfun](https://sparkfun.com)
