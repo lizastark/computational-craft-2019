@@ -67,16 +67,16 @@ The course is structured as a series of workshops, each with an in class activit
 
 You will have 2 major projects. We will discuss all of these at length, but here is the short overview:
 
-**1. Midterm Project:** You will design a light giving object with at least two states that responds to a narrative or metaphor. No wires allowed.
-**2. Final Project:** For the final project you will respond to a theme or question. It is due the last day of class. Final documentation will be due a few days after.
+1. **Midterm Project:** You will design a light giving object with at least two states that responds to a narrative or metaphor. No wires allowed.
+2. **Final Project:** For the final project you will respond to a theme or question. It is due the last day of class. Final documentation will be due a few days after.
 
 At certain points in the semester, we will reflect on the direction of the course as a whole class to discuss things that are not working or demand further exploration.
 
 
 ## Evaluation and Final Grade Calculation
-35% Participation + Attendance
-40% Assignments (in and out of class) + Documentation*
-25% Major Projects: Midterm (10%) + Final (15%)
+- 35% Participation + Attendance
+- 40% Assignments (in and out of class) + Documentation*
+- 25% Major Projects: Midterm (10%) + Final (15%)
 
 TOTAL			        		100%
 
@@ -93,7 +93,7 @@ You should come ready to make. Much of class time will be spent workshopping in 
 Laptops should be closed when not needed and phones should be on silent. Specifically, I have no tolerance for inattention during student project presentations. A core principle of this program is peer feedback and I expect all of you to respect this.
 
 ### Assignments + Documentation
-You should bring all completed assignments (working or not!) to the next class. Weekly assignments should be documented and posted to the class blog. Here is a post outlining what a documentation post should include.
+You should bring all completed assignments (working or not!) to the next class. Weekly assignments should be documented and posted to **TBD**. Please see this page (forthcoming) outlining what a documentation post should include.
 
 ### Major Projects
 One goal of this course is creating a database of techniques for others to learn from. Extensive documentation is required for each project in the form of an Instructable or other appropriate platform. You are encouraged to work in groups for all projects. If you wish to combine one of these three projects with a deliverable for another course, you MUST ask me first. Failure to do so will result in point deduction. I am open to this, but it is imperative that we establish the goals of the project as they relate to each course.
