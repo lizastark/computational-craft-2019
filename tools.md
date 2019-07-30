@@ -1,6 +1,6 @@
 This course is heavily based in materials. I will provide samples for you to experiment with, but you will be responsible for purchasing materials for individual projects. Look at the materials page for much more.
 
-# REQUIRED
+# Required
 Please purchase the tools, materials, and hardware under "Required" ASAP and bring them to every class.
 
 ## Tools
@@ -46,7 +46,7 @@ Please purchase the tools, materials, and hardware under "Required" ASAP and br
 - Arduino Uno + USB cord (You should be prepared to purchase another microcontroller such as the Adafruit Flora, LilyPad, Gemma MO, Teensy for midterms and/or final projects)
 - Lead-free solder
 
-# RECOMMENDED
+# Recommended
 Depending on your experience and interests, these could be helpful in your toolbox.
 
 ## Tools
@@ -80,7 +80,7 @@ Depending on your experience and interests, these could be helpful in your toolb
 - Vibration motors
 - ATtiny 84 (14 pins)
 
-# PROVIDED/AVAILABLE
+# Provided/Available
 ## Tools
 - Sewing Machine (Making Center or Sven)
 
