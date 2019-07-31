@@ -27,21 +27,32 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - [Parsons Academic Resources](http://resources.parsons.edu/)
 - Past courses | [2018](http://lizastark.com/compcraftfall2018/author/admin/) | [2017](http://lizastark.com/compcraftfall2017/wp-admin/nav-menus.php) | [2016](http://lizastark.com/compcraftfall2016) | [2015](http://lizastark.com/compcraftfall15/)
 
-## Materials + Tools
-This is in large part a materials-focused course. Some materials will be provided for example activities, but students are expected to purchase their own materials for assignments and projects based on their needs. 
+## Supplies
+This is in large part a materials-focused course. Some materials will be provided for example activities, but you are expected to purchase your own materials for assignments and projects based on your interests and needs. 
 - All required and recommended supplies for the class can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/supplies.md). 
-- Our class supplies can be found in locker #27 (see your email for the combination)
-- A database of materials (only some of which we have time to explore) can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/materials.md)
+- Our class supplies can be found in locker #27 (see your email for the combination). If you take something out, please leave a note.
+- A database of materials (only some of which we have time to explore) can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/resources/materials.md)
 - Again, you are expected to bring all materials and tools to every class.
 
-As of this fall, D12 will also have some machines available on the floor. Please treat these tools with the same respect you would treat your own. 
-
 ## Resources
-### Making Center
+### Course-Related
+All of these files are in the ["resources"](https://github.com/lizastark/computational-craft-2019/tree/master/resources) folder.
+- [**Materials.**](https://github.com/lizastark/computational-craft-2019/tree/master/resources) A humble database of conductive and smart materials.
+- **Tutorials + Blogs.** For learning and process.
+- **People.** People who are working with these tools, techniques, and materials.
+- **Spaces.** Places where people are working with these tools, techniques, and materials.
+- **Publications.** Books, academic papers, zines, etc. 
+
+### At Parsons
+#### Making Center
 - [Equipment Orientations](http://resources.parsons.edu/training-workshops/) - Sign up early
 - [Labs, Shops, Studios](http://resources.parsons.edu/labs-shops-studios/)
 - [List of Tools + Equipment](http://resources.parsons.edu/tools-equipment/)
 - [Making Center Store](https://epay.newschool.edu/C21120_ustores/web/classic/store_cat.jsp?STOREID=40&CATID=209) - You can purchase materials online and pick them up there.
+#### D12
+- As of this fall, D12 will also have some machines available on the floor. Please treat these tools with the same respect you would treat your own. 
+- We also are fortunate to have our very own Silhouette Vinyl Cutter in the class locker. Please review this [tutorial](http://lizastark.com/compcraftfall2018/silhouette-portrait-vinyl-cutter-tutorial/) before using it 
+
 
 ### Tutorials + Websites + People + Spaces
 Please see [this page](http://lizastark.com/compcraftfall2018/resources/) until I port them over here.
