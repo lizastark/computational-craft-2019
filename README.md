@@ -5,13 +5,13 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 ## Schedule
 *PLEASE NOTE: You should bring your tools, materials, and components to EVERY class*
 - Week 1 (8/28) - [Course Introduction](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week1.md)
-- Week 2 (9/4) - Crafting a Path: Circuit Basics
-- Week 3 (9/11) - Sensors and Switches
-- Week 4 (9/25) - eTextile Connectors + Tools *(Liza out, Nicole subs)*
-- Week 5 (10/2) - Arduino 1: The Basics *(Liza out, Nicole subs)*
-- Week 6 (10/9) - NO CLASS
-- Week 7 (10/16) - Arduino 2 + ATtinys *(Liza out, Nicole subs)*
-- Week 8 (10/23) - Midterm presentations
+- Week 2 (9/4) - [Crafting a Path: Circuit Basics](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week2.md)
+- Week 3 (9/11) - [Sensors and Switches](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week3.md)
+- Week 4 (9/25) - [eTextile Connectors + Tools](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week4.md) *(Liza out, Nicole subs)*
+- Week 5 (10/2) - [Arduino 1: The Basics](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week5.md) *(Liza out, Nicole subs)*
+- Week 6 (10/9) - [NO CLASS](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week6.md)
+- Week 7 (10/16) - [Arduino 2 + ATtinys](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week7.md) *(Liza out, Nicole subs)*
+- Week 8 (10/23) - [Midterm](https://github.com/lizastark/computational-craft-2019/blob/master/midtermBrief.md) presentations
 - Week 9 (10/30) - Sound
 - Week 10 (11/6) - Heat + Color
 - Week 11 (11/13) - Motion 1: Shape Memory Alloys
@@ -20,6 +20,13 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 14 (12/4) - TBD
 - Week 15 (12/11) - In-class work session
 - Week 16 (12/18) - Final Presentations
+
+## Quick Links
+- Course Slack 
+- How to Submit an Assignment
+- [Parsons Academic Resources](http://resources.parsons.edu/)
+- Past courses
+-- [2018](http://lizastark.com/compcraftfall2018/author/admin/)
 
 ## Materials + Tools
 This is in large part a materials-focused course. Some materials will be provided for example activities, but students are expected to purchase their own materials for assignments and projects based on their needs. 
