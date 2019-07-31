@@ -1,17 +1,18 @@
 # Midterm Brief
 
 ## TRACK 1
-Design a lamp using the techniques, tools, and materials we have been learning over the course. Lamp and presentation are due OCT. 23. You will have seven minutes total to present. I suggest 5 minutes for presentation and 2 for feedback. You do not need to have a slide deck unless you want to. You should plan to demo. Documentation and tutorial (see below) due Sunday, Oct. 27.
+Design a lamp using the techniques, tools, and materials we have been learning over the course. Lamp and presentation are due at the beginning of class on Oct. 23. You will have seven minutes total to present. I suggest 5 minutes for presentation and 2 for feedback. You do not need to have a slide deck unless you want to. You should plan to demo. Documentation and tutorial (see below) due Sunday, Oct. 27.
 
 ### Constraints:
 1) MUST use a switch or sensor. RE: You must have a way of controlling the circuit.
 2) Must have at least two states (e.g. on/off, fading fast/slow, red/blue, etc) or more.
 3) You do not have to use Arduino.
 4) **You cannot use jumper wires or wires of any kind** *unless* it is to connect your circuit traces to the Arduino. In this case, you should consider how to integrate your Arduino into the design. Depending on your time and financial constraints, you may want to explore other types of Arduinos that better fit your design, such as a Lilypad, Flora, Gemma, Arduino Mini, etc.
-  - *NOTE: If you use wires other than as described above, I will lower your grade. Ask me if you have questions.*
 5) The midterm is an individual project.
 
-NOTE: Do NOT use a breadboard for the same reasons as the Arduino constraint above. Again, the goal of this project is to evaluate your comprehension of the materials, techniques, and processes. Only using wires and a breadboard or Arduino will not help me understand that you have mastered what we have been doing in the semester.
+NOTE: 
+- If you use wires other than as described above, I will lower your grade. Ask me if you have questions.
+- Do NOT use a breadboard for the same reasons as the Arduino constraint above. Again, the goal of this project is to evaluate your comprehension of the materials, techniques, and processes. Only using wires and a breadboard or Arduino will not help me understand that you have mastered what we have been doing in the semester.
 
 ### Assessment
 I will be evaluating you along the following categories:
@@ -35,7 +36,7 @@ You may propose another project for the midterm, but it MUST be approved by me f
 
 ## ALL TRACKS
 ### Documentation
-– I will evaluate ALL projects on their documentation. A project is only as good as its documentation. 
+I will evaluate ALL projects on their documentation. A project is only as good as its documentation. 
 - Choose an appropriate form of media documentation: video, photo essay, online tutorial, slide deck, website, zine, poster, Instructable, etc. The form will depend in part on the goal of your project. Think about the goal as you choose your form of documentation. 
 - If you decide to create a video, here is a [list of great documentation videos](https://www.youtube.com/playlist?list=PLxW5bBHPfdBwY0xRp5m8oti-rdyZfTJRD) from the wonderful [Becky Stern](https://beckystern.com/).
 - Final documentation is due Sunday, October 27.
