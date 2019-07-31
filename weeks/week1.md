@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 (8/28) - Course Introduction
 
 ## Slides + Notes
 - [Week 1 Slides](https://docs.google.com/presentation/d/1LyRJICWhEP5ZZ_vf_rqyXmi4KPl9FpePtL-3saM8JDY/edit#slide=id.g117a581df7_2_68)
