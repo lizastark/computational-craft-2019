@@ -22,7 +22,7 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 16 (12/18) - Final Presentations
 
 ## Quick Links
-- Course Slack 
+- [Course Slack](https://slack.com/signin). Please check your email for an invitation. Our workspace is called computational-craft. 
 - How to Submit an Assignment
 - [Parsons Academic Resources](http://resources.parsons.edu/)
 - Past courses | [2018](http://lizastark.com/compcraftfall2018/author/admin/) | [2017](http://lizastark.com/compcraftfall2017/wp-admin/nav-menus.php) | [2016](http://lizastark.com/compcraftfall2016) | [2015](http://lizastark.com/compcraftfall15/)
