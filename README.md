@@ -25,8 +25,7 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Course Slack 
 - How to Submit an Assignment
 - [Parsons Academic Resources](http://resources.parsons.edu/)
-- Past courses
--- [2018](http://lizastark.com/compcraftfall2018/author/admin/)
+- Past courses | [2018](http://lizastark.com/compcraftfall2018/author/admin/) | [2017](http://lizastark.com/compcraftfall2017/wp-admin/nav-menus.php) | [2016](http://lizastark.com/compcraftfall2016) | [2015](http://lizastark.com/compcraftfall15/)
 
 ## Materials + Tools
 This is in large part a materials-focused course. Some materials will be provided for example activities, but students are expected to purchase their own materials for assignments and projects based on their needs. 
