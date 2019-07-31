@@ -23,7 +23,7 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 
 ## Materials + Tools
 This is in large part a materials-focused course. Some materials will be provided for example activities, but students are expected to purchase their own materials for assignments and projects based on their needs. 
-- All required supplies for the class can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/tools.md). 
+- All required and recommended supplies for the class can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/supplies.md). 
 - Our class supplies can be found in locker #27 (see your email for the combination)
 - A database of materials (only some of which we have time to explore) can be found [here](https://github.com/lizastark/computational-craft-2019/blob/master/materials.md)
 - Again, you are expected to bring all materials and tools to every class.
