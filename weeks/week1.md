@@ -9,4 +9,4 @@
   - [Tutorials + Websites + People + Spaces](http://lizastark.com/compcraftfall2018/resources/)
   - [Readings + Publications](http://lizastark.com/compcraftfall2018/readings/)
 3. Create a post that includes, images, video, or other documentation. Write a brief paragraph explaining what it is about this project that intrigues you.
-4. Purchase materials in the supplies doc today or tomorrow.
+4. Purchase materials in [Supplies](https://github.com/lizastark/computational-craft-2019/blob/master/supplies.md) today or tomorrow.
