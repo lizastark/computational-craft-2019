@@ -1,5 +1,4 @@
-# Week 6
-October 9, 2019
+# Week 6 (10/9)
 
 ## Slides + Notes
 No class!
