@@ -8,4 +8,4 @@
 2. Use your zine to build three more connector tools to connect your “nodes.” They can be all the same or all different.
 3. Design a tool you would like to have in this class. It can be completely fantastical or gravely functional or both. You do not have to make this – it is a brainstorming exercise.
 
-Document these all on the blog and bring them to next class.
+Document and post your assignment. Bring your nodes and connectors to next class.
