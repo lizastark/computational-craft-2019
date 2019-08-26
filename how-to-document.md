@@ -8,7 +8,7 @@ Documentation is a very important part of this course, for a few reasons:
 Documentation can be quick and it will get easier the more you do it. Paragraphs are not required – you may list items. You should spend no more than 20 minutes on it for homework. Documentation for assignments will be checked for grading at midterm and final (in the off chance you miss one :). Documentation for bigger projects (midterm, group presentation, and final) are due about a week after presentations.
 
 ## Assignments
-You can create documentation posts on your personal blog or in a google doc. Include all of the following elements below, then submit a link to your post or doc in the proper Slack channel (e.g. week_1_assignment): 
+You can create documentation posts on your personal blog or in a google doc. Include all of the following elements below, then submit a link to your post or doc in the proper [Slack channel](computational-craft.slack.com] (e.g. week_1_assignment): 
 - Include an image/video of your final product at the top of the post.
 - Describe your project briefly. What does it do/How does it work? Is it for a particular audience?
 - List the materials used. If they are not in our class resource list, include a link.
