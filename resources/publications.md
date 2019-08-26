@@ -30,22 +30,22 @@
 - Functional Aesthetic by Sabine Seymour
 
 ## Papers
-### Required
-- eTextiles: Reviewing a Practice through its Tool/Kits by Irene Posch, Liza Stark, and Geraldine Fitzpatrick (forthcoming)
+*I have been working on a database of more books and papers specifically related to eTextiles over the past 25 years. It is a WIP but if you would like access, please ping me.*
+
+- eTextiles: Reviewing a Practice through its Tool/Kits by Irene Posch, Liza Stark, and Geraldine Fitzpatrick (2019 -forthcoming)
+- [Analysis of Sensitivity, Linearity, Hysteresis, Responsiveness, and Fatigue of Textile Knit Stretch Sensors](https://www.mdpi.com/1424-8220/19/16/3618) by An Liang, Rebecca Stewart, and Nick Bryan-Kinns (2019)
 - Crafting technology: Reimagining the processes, materials, and cultures of electronics by Leah Buechley and Hannah Perner-Wilson (2012)
+- The fine art of electronics : paper-based circuits for creative expression by Jie Qi (2012)
+- Handcrafting textile interfaces from a kit-of-no-parts by Hannah Perner-Wilson, Leah Buechley, and Mika Satomi (TEI, 2011)
+- Becoming Materials: Material Forms and Forms of Practice by Jenny Bergström, Brendon Clark, Alberto Frigo, Ramia Mazé, Johan Redström, and Anna Vallgårda (2010)
+- DIY Wearable technology by Hannah Perner-Wilson and Mika Satomi (ISEA, 2009)
+- Shutters: A Permeable Surface for Environmental Control and Communication by Marcelo Coelho and Pattie Maes (TEI, 2009)
+- The LilyPad Arduino: Using Computational Textiles to Investigate Engagement, Aesthetics, and Diversity in Computer Science Education by Leah Buechley, Mike Eisenberg, Jaime Catchen, and Ali Crockett (2008)
+- Pulp-Based Computing: A Framework for Building Computers Out of Paper by Marcelo Coelho, Lyndl Hall, Joanna Berzowska, Pattie Maes (2007)
 - A Construction Kit for Electronic Textiles by Leah Buechley (2006)
+- Computationally-enhanced Craft Items: Prototypes and Principles by Michael Eisenberg, Ann Eisenberg, Mark Gross, Khomkrit Kaowthumrong, Nathaniel Lee, and Will Lovett (ICLS 2002)
+- E-broidery: Design and fabrication of textile-based computing by Maggie Orth, Rehmi Post, Peter Russo, and Neil Gershenfeld (2000)
+- Fabric Computing Interfaces by Maggie Orth, Rehmi Post and Emily Cooper (CHI, 1998)
+- What Do Prototypes Prototype by Stephanie Houde and Charles (1997)
 - Design for Wearability by Francine Gemperle, Chris Kasabach, John Stivoric, Malcolm Bauer, Richard Martin (1998)
 - The Computer for the 21st Century by Mark Weiser (1991)
-- What Do Prototypes Prototype by Stephanie Houde and Charles (1997)
-- The fine art of electronics : paper-based circuits for creative expression by Jie Qi (2012)
-- Pulp-Based Computing: A Framework for Building Computers Out of Paper by Marcelo Coelho, Lyndl Hall, Joanna Berzowska, Pattie Maes (2007)
-- The LilyPad Arduino: Using Computational Textiles to Investigate Engagement, Aesthetics, and Diversity in Computer Science Education by Leah Buechley, Mike Eisenberg, Jaime Catchen, and Ali Crockett (2008)
-
-### Recommended
-- Handcrafting textile interfaces from a kit-of-no-parts by Hannah Perner-Wilson, Leah Buechley, and Mika Satomi (TEI, 2011)
-- DIY Wearable technology by Hannah Perner-Wilson and Mika Satomi (ISEA, 2009)
-- Fabric Computing Interfaces by Maggie Orth, Rehmi Post and Emily Cooper (CHI, 1998)
-- Becoming Materials: Material Forms and Forms of Practice by Jenny Bergström, Brendon Clark, Alberto Frigo, Ramia Mazé, Johan Redström, and Anna Vallgårda
-- Shutters: A Permeable Surface for Environmental Control and Communication by Marcelo Coelho and Pattie Maes (TEI, 2009)
-- E-broidery: Design and fabrication of textile-based computing by Maggie Orth, Rehmi Post, Peter Russo, and Neil Gershenfeld (2000)
-- Computationally-enhanced Craft Items: Prototypes and Principles by Michael Eisenberg, Ann Eisenberg, Mark Gross, Khomkrit Kaowthumrong, Nathaniel Lee, and Will Lovett (ICLS 2002)
