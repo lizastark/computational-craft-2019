@@ -1,7 +1,7 @@
 # Week 3 (9/11) - Sensors and Switches
 
 ## Slides + Notes
-- [Week 3 Slides](https://docs.google.com/presentation/d/1BeL-JDjTNKolZ0wJs4RFRrPpSW8nbskoeuVZ8IG0Yfw/edit)
+- [Week 3 Slides](https://docs.google.com/presentation/d/13gSxJvvl_bakWgwRlj1LaCXrzOp2oq3IABX46URDs6o/edit?usp=sharing)
 - Tutorials
   - [Switches](http://thesoftcircuiteer.net/soft-switches/)
   - [Sensors](http://thesoftcircuiteer.net/soft-sensors/)
