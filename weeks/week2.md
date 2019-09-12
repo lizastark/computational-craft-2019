@@ -1,7 +1,7 @@
 # Week 2 (9/4) - Crafting a Path: Circuit Basics
 
 ## Slides + Notes
-- [Week 2 Slides](https://docs.google.com/presentation/d/1EssNUn858oeHvLm2OuFBqYpYaAz66A5Vw-gCPwB45Bo/edit#slide=id.gc7ff0148e_0_8)
+- [Week 2 Slides](https://docs.google.com/presentation/d/1EssNUn858oeHvLm2OuFBqYpYaAz66A5Vw-gCPwB45Bo/edit?usp=sharing)
 
 ## Assignment
 Pick sentence or passage from a story that you like (children’s storybooks work VERY well), a song, a poem, etc that you like. Illustrate part of that narrative using a parallel circuit with 3 LEDs and materials we discussed in class.
