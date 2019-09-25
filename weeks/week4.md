@@ -1,4 +1,4 @@
-# Week 4 (9/25) - eTextile Connectors + Tools
+# Week 4 (9/18) - eTextile Connectors + Tools
 
 ## Slides + Notes
 - [Week 4 Slides](https://docs.google.com/presentation/d/1LBjEvBG0YRKXFaQBNv8L1Cd6XK4oEhO8A-UHwbU3nDg/edit#slide=id.g4352b47cb5_0_0)
