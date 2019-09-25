@@ -1,4 +1,4 @@
-# Week 6 (10/9)
+# Week 7 (10/9)
 
 ## Slides + Notes
 No class!
