@@ -7,19 +7,20 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 1 (8/28) - [Course Introduction](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week1.md)
 - Week 2 (9/4) - [Crafting a Path: Circuit Basics](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week2.md)
 - Week 3 (9/11) - [Sensors and Switches](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week3.md)
-- Week 4 (9/25) - [eTextile Connectors + Tools](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week4.md) *(Liza out, Nicole subs)*
-- Week 5 (10/2) - [Arduino 1: The Basics](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week5.md) *(Liza out, Nicole subs)*
-- Week 6 (10/9) - [NO CLASS](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week6.md)
-- Week 7 (10/16) - [Arduino 2 + ATtinys](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week7.md) *(Liza out, Nicole subs)*
-- Week 8 (10/23) - [Midterm](https://github.com/lizastark/computational-craft-2019/blob/master/midtermBrief.md) presentations
-- Week 9 (10/30) - Sound
-- Week 10 (11/6) - Heat + Color
-- Week 11 (11/13) - Motion 1: Shape Memory Alloys
-- Week 12 (11/20) - Motion 2: Flip Dots + Intro to Final Project
-- Week 13 (11/27) - NO CLASS
-- Week 14 (12/4) - TBD
-- Week 15 (12/11) - In-class work session
-- Week 16 (12/18) - Final Presentations
+- Week 4 (9/18) - [eTextile Connectors + Tools](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week4.md) *(Liza out, Nicole subs)*
+- Week 5 (9/25) - [Arduino 1: The Basics](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week5.md) *(Liza out, Nicole subs)*
+- Week 6 (10/2) - [Arduino 2 + ATtinys](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week6.md) *(Liza out, Nicole subs)*
+- Week 7 (10/9) - [NO CLASS](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week7.md)
+- Week 8 (10/16) - Midterm Pitches + Tool Demo
+- Week 9 (10/23) - [Midterm](https://github.com/lizastark/computational-craft-2019/blob/master/midtermBrief.md) presentations
+- Week 10 (10/30) - Sound
+- Week 11 (11/6) - Heat + Color
+- Week 12 (11/13) - Motion 1: Shape Memory Alloys
+- Week 13 (11/20) - Motion 2: Flip Dots + Intro to Final Project
+- Week 14 (11/27) - NO CLASS
+- Week 15 (12/4) - TBD
+- Week 16 (12/11) - In-class work session
+- Week 17 (12/18) - Final Presentations
 
 ## Quick Links
 - [Course Slack](https://slack.com/signin). Please check your email for an invitation. Our workspace is called computational-craft. 
