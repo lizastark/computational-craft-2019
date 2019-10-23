@@ -18,9 +18,8 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 12 (11/13) - Motion 1: Shape Memory Alloys
 - Week 13 (11/20) - Motion 2: Flip Dots + Intro to Final Project
 - Week 14 (11/27) - NO CLASS
-- Week 15 (12/4) - TBD
-- Week 16 (12/11) - In-class work session
-- Week 17 (12/18) - Final Presentations
+- Week 15 (12/4) - In-class work session
+- Week 16 (12/11) - Final Presentations
 
 ## Quick Links
 - [Course Slack](https://slack.com/signin). Please check your email for an invitation. Our workspace is called computational-craft. 
