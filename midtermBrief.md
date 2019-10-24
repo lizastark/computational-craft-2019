@@ -1,7 +1,7 @@
 # Midterm Brief
 
 ## TRACK 1
-**Design a lamp using the techniques, tools, and materials we have been learning over the course.** Lamp and presentation are due at the beginning of class on Oct. 23. You will have seven minutes total to present. I suggest 5 minutes for presentation and 2 for feedback. You do not need to have a slide deck unless you want to. You should plan to demo. Documentation and tutorial (see below) due Sunday, Oct. 27. 
+**Design a lamp using the techniques, tools, and materials we have been learning over the course.** Lamp and presentation are due at the beginning of class on Oct. 23. You will have seven minutes total to present. I suggest 5 minutes for presentation and 2 for feedback. You do not need to have a slide deck unless you want to. You should plan to demo. Documentation and tutorial (see below) due Wednesday, October 30. (NOTE: This is an update - it is not due on Sunday, Oct. 27) 
 
 [Here](https://www.instructables.com/id/Computational-Craft-2014/) is some inspiration from past classes. Remember, a lamp is a source of light. Try to push beyond your current mental models and ontologies of what you think a lamp is. Use your imagination.
 
