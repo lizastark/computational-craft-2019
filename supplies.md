@@ -89,6 +89,11 @@ Depending on your experience and interests, these could be helpful in your toolb
 - Variety of conductive threads
 
 ## Hardware
-- ATtiny45
-- N-Channel MOSFET
 - Components in the p comp lab
+- [8-pin IC socket](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=208192163&uq=636107666911758817)
+- [ATtiny45](http://www.digikey.com/product-search/en?keywords=ATTINY85-20PU-ND)
+- [JST PH Connector Male 2-Pin 2.0mm (Angled)](http://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-PH-K-S(LF)(SN)/455-1704-ND/926611)
+- [FQP30N06L-ND MOSFET Transistor](https://www.digikey.com/products/en?keywords=FQP30N06L)
+- [1N4001RLGOSCT-ND Diode](https://www.digikey.com/product-detail/en/on-semiconductor/1N4001RLG/1N4001RLGOSCT-ND/917621)
+- [TIP 120 Darlington Transistor](https://www.digikey.com/product-detail/en/on-semiconductor/TIP120G/TIP120GOS-ND/920325)
+- [Tiny AVR Programmer](https://www.amazon.com/SparkFun-Tiny-AVR-Programmer/dp/B00B6KNJRY)
