@@ -13,12 +13,12 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 7 (10/9) - [NO CLASS](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week7.md)
 - Week 8 (10/16) - Midterm Pitches + Tool Demo
 - Week 9 (10/23) - [Midterm](https://github.com/lizastark/computational-craft-2019/blob/master/midtermBrief.md) presentations
-- Week 10 (10/30) - Sound
-- Week 11 (11/6) - Heat + Color
-- Week 12 (11/13) - Motion 1: Shape Memory Alloys
-- Week 13 (11/20) - Motion 2: Flip Dots + Intro to Final Project
+- Week 10 (10/30) - [Sound](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week10.md)
+- Week 11 (11/6) - [Heat + Color](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week11.md)
+- Week 12 (11/13) - AMA + Catch Up
+- Week 13 (11/20) - Motion 1: Shape Memory Alloys + Intro to Final Project
 - Week 14 (11/27) - NO CLASS
-- Week 15 (12/4) - In-class work session
+- Week 15 (12/4) - Motion 2: Flip Dots
 - Week 16 (12/11) - Final Presentations
 
 ## Quick Links
