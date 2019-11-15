@@ -1,6 +1,7 @@
 # Tutorials + Blogs
 
-##Blogs
+Please see [this page](http://lizastark.com/compcraftfall2018/resources/) while links are being updated.
+## Blogs
 To browse or include on your regular checklist.
 - How to Get What You Want
 - Stitching Worlds (Research project combining textiles, electronics, and fabrication.)
