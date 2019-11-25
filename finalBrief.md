@@ -23,6 +23,7 @@ You should make a short video introducing your project. It should include the ti
 
 ## DUE TUESDAY, 12/17 AT MIDNIGHT (I will not accept late submissions)
 **1) BLOG POST**
+
 Create a short post with: 
 - The link to documentation of your tutorial.
 - A short description fo the project and its goals/main concept.
@@ -30,6 +31,7 @@ Create a short post with:
 - A short reflection on your process. What were your wins, challenges? What did you learn? Where would you take it next?
 
 **2) TUTORIAL**
+
 The tutorial can take any form - get creative. The goal is to create useful documentation that someone else could use for inspiration or to recreate your project (either as a whole or in part). If your project is complex, you may only do a tutorial for one part of it (e.g. how you built a heating circuit with a particular design) or you may work on explaining one difficult or tricky concept (e.g. voltage dividers). Here are the components you must include:
 - Title
 - Description. What does it do? Who is it made for? Why did you make it? What motivated it? etc.
