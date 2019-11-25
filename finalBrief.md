@@ -4,9 +4,11 @@ The goal of your final project is to show me that you have a grasp of the materi
 ## Due Wednesday, Dec 11
 
 **1) WORKING PROTOTYPE**
+
 You MUST bring your prototype to show – even if it is not working. If you require a specific environment, please email me.
 
 **2) SHARE OUT**
+
 This is not a formal presentation, but everyone must share out your process and final product. You will have 7 minutes including time for feedback. You should discuss:
 - Concept
 - Precedents
@@ -15,6 +17,7 @@ This is not a formal presentation, but everyone must share out your process and 
 - Future iterations
 
 **3) VIDEO DOCUMENTATION**
+
 You should make a short video introducing your project. It should include the title of your piece, your concept, and a prototype demo.
 
 
