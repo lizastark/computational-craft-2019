@@ -1,6 +1,8 @@
 # Final Brief
 The goal of your final project is to show me that you have a grasp of the materials, concepts, skills, and knowledge that we learned over the semester. Other than that, there is no prompt or rule set for the project - it is open. You can do an in depth study of a process or material, create an object, etc. In addition to the project, you must create a tutorial for all or a subset of your project. This can take any form you like - zine, Instructable, book, essay, photo essay, etc. See below for more details. You may combine it with other classes, but you MUST clear it with me first.
 
+You must submit your final project proposal by **MONDAY, DECEMBER 2**. This should include a brief description of what you will do, how you plan to create your tutorial, and any sketches/diagrams.
+
 ## Due Wednesday, Dec 11
 
 **1) WORKING PROTOTYPE**
