@@ -18,7 +18,7 @@ Overview and compendium of resources for Computational Craft course in the MFA D
 - Week 12 (11/13) - [AMA + Catch Up](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week12.md)
 - Week 13 (11/20) - [Motion 1: Shape Memory Alloys](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week13.md) + [Vinyl Cutter](http://lizastark.com/compcraftfall2018/silhouette-portrait-vinyl-cutter-tutorial/) + [Intro to Final Project](https://github.com/lizastark/computational-craft-2019/blob/master/finalBrief.md)
 - Week 14 (11/27) - NO CLASS
-- Week 15 (12/4) - Motion 2: Flip Dots
+- Week 15 (12/4) - [Motion 2: Flip Dots](https://github.com/lizastark/computational-craft-2019/blob/master/weeks/week15.md)
 - Week 16 (12/11) - Final Presentations
 
 ## Quick Links
